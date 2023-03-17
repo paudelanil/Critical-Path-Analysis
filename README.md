@@ -1,7 +1,7 @@
 # Critical-Path-Analysis
 
  Critical-Path-Analyis (CPA) is a project management tool that calculates the critical path and time required to complete the tasks of the project
-and visualizes it in graphs as data structure.
+and visualizes it in graphs as data structure.<br>It is developed as a part of college project for IV Semester of Computer Engineering undergraduate program.
 
 <b> Project Memebrs</b>
 + Anil Paudel(077BCT010)
