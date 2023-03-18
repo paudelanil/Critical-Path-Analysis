@@ -12,11 +12,14 @@ and visualizes it in graphs as data structure.<br>It is developed as a part of c
 
 To run this program in linux, you need to install SFML first. The installation process is quite simple. The full installation guide can be found on [SFML installation](https://www.sfml-dev.org/tutorials/2.5/start-linux.php)
 
-To run this program in VS (windows) check out [Critical-Path-Analysis](https://github.com/ashim-karki/Critical-Path-Analysis)
+
 
 Clone this repository in VS code and make sure to add [MakeFile Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools). 
 
 In terminal, write `make` command. After that an executable file will be created at 'bin' . Now write `bin/main`. The program will be finally up and running.
+
+
+To run this program in VS (windows) check out [Critical-Path-Analysis](https://github.com/ashim-karki/Critical-Path-Analysis)
 
 ### Program Details
 + On terminal input, we need to provide no. of vertices, their names, time durations, dependencies .
