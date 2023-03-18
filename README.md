@@ -4,7 +4,7 @@
 and visualizes it in graphs as data structure.<br>It is developed as a part of college project for IV Semester of Computer Engineering undergraduate program.
 
 <b> Project Memebrs</b>
-+ Anil Paudel(077BCT010)
++ Anil Paudel
 + [Ashim Karki](https://github.com/ashim-karki)
 + [Bishal Aryal](https://github.com/bishal0909)
 
