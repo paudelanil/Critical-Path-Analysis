@@ -25,6 +25,22 @@ To run this program in VS (windows) check out [Critical-Path-Analysis](https://g
 + On terminal input, we need to provide no. of vertices, their names, time durations, dependencies .
 + After successful input process, All the updated parameters of vertices, a critical path and minumum completion time will be shown along with the grpah visualisation.
 
+
+### EXAMPLE
+
+![image](https://user-images.githubusercontent.com/86644466/226087684-991da9ec-d0d1-4ba7-9a09-f5468c4b3e5f.png)
+ 
+The dependency table of the above example is:
+| Task Name  | Time  | Dependency	| Last Node (y/n)	| Task                  |
+| ---------- | ----- | ----------- | --------------- | --------------------- |
+| A	         | 0     |	-	         | n	              | Start
+| B	         | 3     |	A	         | n	              | Creating Wireframes    
+| C	         | 8     |	A	         | n	              | Designing UI                 
+| D	         | 15    |	B	         | n	              | Backend Development                 
+| E	         | 17    |	B, C	     | n	              | Frontend Development                 
+| F	         | 12    |	D, E	     | y	              | Testing and Debugging                 
+| G	         | 6     |	E	         | y	              | Content Creation and Addition
+| Final Node | -     |	-	         | -	              | Demo Launch
 ### Input format
 ```
 Enter the number of vertices: 7
